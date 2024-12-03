@@ -25,6 +25,7 @@ Before running this project, ensure you have the following installed:
 1. Clone the Repository:
    
 git clone https://github.com/your-username/library-management-system.git
+
 cd library-management-system
 
 2. Set Up the MySQL Database:
