@@ -26,7 +26,7 @@ Before running this project, ensure you have the following installed:
    
 git clone https://github.com/HarryVuthy/My-final-project.git
 
-cd library-management-system
+cd Mt-final-project
 
 2. Set Up the MySQL Database:
 - Create a database called LibrarySystem in MySQL
