@@ -7,8 +7,8 @@ from datetime import date
 def connect_db():
     return pymysql.connect(
         host="localhost",
-        user="root",  # Update with your MySQL username
-        password="Cybery77",  # Update with your MySQL password
+        user="",  # Update with your MySQL username
+        password="",  # Update with your MySQL password
         database="LibrarySystem"
     )
 
